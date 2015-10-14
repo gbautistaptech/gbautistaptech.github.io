@@ -1,0 +1,46 @@
+h1 {
+  text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #3333FF,
+               0 3px 0 #33CCFF,
+               0 4px 0 #33FFFF,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+h2 {text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+text-shadow: 8px 8px 0 rgba(0,0,0);
+}
+td{
+  margin:center;
+  padding:10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a:hover{
+  color:white
+}
+p.ridge {border-style: ridge;
+}
+body {
+  background-image:("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMk5kxSaaXpLIWihlvS513jErQVMwIjWb_GLGr7979eZlJxqHtkA");
+}
+http://www.pptwallpapers.com/uploads/abstract-blue-light-classic-reunion-backgrounds-powerpoint.jpg
